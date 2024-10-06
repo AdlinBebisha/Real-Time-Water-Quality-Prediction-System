@@ -22,7 +22,7 @@ This project is designed to fetch real-time water quality data from the ThingSpe
 1. Clone the repository from GitHub:
 
     ```bash
-    git clone https://github.com/your_username/realtime-water-quality-prediction.git
+    git clone https://github.com/AdlinBebisha/Real-Time-Water-Quality-Prediction-System.git
     ```
 
 2. Install the required Python libraries:
